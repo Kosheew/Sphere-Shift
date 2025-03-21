@@ -430,7 +430,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Realod
+  m_Text: Reload
 --- !u!222 &42912748
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1199,6 +1199,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  _pathClearanceHandler: {fileID: 0}
 --- !u!1 &166552245 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8584624387877052413, guid: cd8c549c1f4b80f4f9dd4b933f3d88b5,
